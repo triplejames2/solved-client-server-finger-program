@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-client-server-finger-program
+<br>
+Download the existing program contained in Week6_Echo.zip. This file unzips into a NetBeans project that includes the source code for two Java programs, a client program, and a server program. The two programs implement the Internet’s echo protocol.Start up NetBeans. Open the Week6_Echo project you just downloaded and unzipped.By Day 7, modify the client and the server so that they implement the Internet’s finger protocol. The response from the server does not need to reflect actual user data, but you must base the response on the name provided in the client’s request.Save and submit your Assignment as a “.zip” file.
